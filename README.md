@@ -1,1 +1,1 @@
-# finance
+This is cs50 !
